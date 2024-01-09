@@ -78,4 +78,4 @@ The following libraries are used for this project:
 
 • The dataset used for the project was obtained from kaggle.
 
-• URL : https://www.kaggle.com/datasets/ssarkar445/crime-data-los-angeles
+• URL : https://www.kaggle.com/datasets/susant4learning/crime-in-los-angeles-data-from-2020-to-present 
